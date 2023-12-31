@@ -2,3 +2,4 @@
 # [CrossSine](https://github.com/shxp3/CrossSine/releases)
 # [LiquidX](https://liquidxclient.github.io/)
 # [Meteor Client](https://meteorclient.com/)
+# Sigma Client NextGen |[b6](https://www.mediafire.com/file/nn66wu9epdug8rf/Sigma_nextgen_hitfix2_b6.zip/file) | [b7(https://www.mediafire.com/file/cryemswjzoq71wr/Sigma_nextgen_b7.zip/file)
